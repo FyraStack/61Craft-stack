@@ -335,6 +335,11 @@ hash = "7c9a7c6b0ba555d29cdff0c2874dfee7d1cd7807f084fcf08b3820b382dc3cb8"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-powered.pw.toml"
+hash = "9a399bb05a12c74edd0014d09178b71bc0ffdb5152f3b457a0f294bf21751745"
+metafile = true
+
+[[files]]
 file = "mods/create-towed.pw.toml"
 hash = "614e84fdbc73e9381fa162c6307ba2502cdaedcca45fd6210e657b5242744282"
 metafile = true
