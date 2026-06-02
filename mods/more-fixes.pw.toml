@@ -1,0 +1,13 @@
+name = "More Fixes"
+filename = "more-fixes-neoforge-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W14ymGs2/versions/qvyzL3Tx/more-fixes-neoforge-1.0.jar"
+hash-format = "sha512"
+hash = "453cf72ecbbf4732553d0751b7f66d19ad2fb1b709c7bcb25a00c5f9ae86c684a8f541b5a3d67d7b25a41959331782030f9d5df3ad8ac29f7fb0dc30acd45e69"
+
+[update]
+[update.modrinth]
+mod-id = "W14ymGs2"
+version = "qvyzL3Tx"

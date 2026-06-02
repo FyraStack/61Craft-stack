@@ -1,0 +1,13 @@
+name = "61craft"
+author = "Aikoyori"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4aa3af53d0d5ecfb0bd6dacd92b1c7323102a5bd0defc38e1d9bfc07867b0464"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.233"
