@@ -1,0 +1,13 @@
+﻿{
+    "type":  "create:sandpaper_polishing",
+    "ingredients":  [
+                        {
+                            "item":  "northstar:polished_amethyst"
+                        }
+                    ],
+    "results":  [
+                    {
+                        "id":  "createutilities:polished_amethyst"
+                    }
+                ]
+}

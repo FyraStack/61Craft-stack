@@ -1,6 +1,70 @@
 hash-format = "sha256"
 
 [[files]]
+file = "global_packs/required_data/sixseventh/data/betternether/recipe/quartz_glass_smelting.json"
+hash = "dce26da386a7fe5063da51d63b9c02b4761406b5d94a38abec8b6c56ae912080"
+
+[[files]]
+file = "global_packs/required_data/sixseventh/data/createaddition/recipes/crafting/spool.json"
+hash = "13f8fc7612432863ec848566c629470b4b17d78ca6bb446bd84e28a2bb6cbf88"
+
+[[files]]
+file = "global_packs/required_data/sixseventh/data/createfood/recipe/create/emptying/egg_fluid_from_emptying.json"
+hash = "6f4afa5daa38dd79b3eb3108d1ce254b163e70b5ff609f531c70bd9da7d5dfc3"
+
+[[files]]
+file = "global_packs/required_data/sixseventh/data/createfood/recipe/create/mixing/egg_fluid_from_mixing.json"
+hash = "696438ac12077dda55e1acd263c83e6bf607fa9065b7196aed997af7dfa0b76a"
+
+[[files]]
+file = "global_packs/required_data/sixseventh/data/luckytntmod/loot_table/blocks/deepslate_gunpowder_ore.json"
+hash = "b4c0e39241bbc7659a68d8323944eb00aefa255eadcb57acae127570298fcb08"
+
+[[files]]
+file = "global_packs/required_data/sixseventh/data/luckytntmod/loot_table/blocks/gunpowder_ore.json"
+hash = "743e6af09d89420ce80fd700eaf677c8bd643036255957e8e282da6d11d1b912"
+
+[[files]]
+file = "global_packs/required_data/sixseventh/data/sixseven/recipe/crafting_recipe_for_package_thingy.json"
+hash = "2a71b98865f093b5118a9ab0b6e8d5a946311ba13a77ee9f3f1ebb165ed5b5c9"
+
+[[files]]
+file = "global_packs/required_data/sixseventh/data/sixseven/recipe/crooked_shil.json"
+hash = "2a71b98865f093b5118a9ab0b6e8d5a946311ba13a77ee9f3f1ebb165ed5b5c9"
+
+[[files]]
+file = "global_packs/required_data/sixseventh/data/sixseven/recipe/lead_from_blackstone.json"
+hash = "04f319aaca79829762521512afb3519561ffd340f5763860dc5171078750cf7a"
+
+[[files]]
+file = "global_packs/required_data/sixseventh/data/sixseven/recipe/leadblasting.json"
+hash = "34ddb35e374c8cdbfc001377d5925e27a0e0630482c6c1ee302e21675be7c3f7"
+
+[[files]]
+file = "global_packs/required_data/sixseventh/data/sixseven/recipe/leadsmelting.json"
+hash = "65fe0e3afd77a9aa13099a8b2585443ae39aed4ed7cd817c168d197e98aa60db"
+
+[[files]]
+file = "global_packs/required_data/sixseventh/data/sixseven/recipe/leadwashing.json"
+hash = "fe42b4e2315ca40c69c24f0a2db39f683f0ad5e18c12b2e806dcdecc54d2b0d2"
+
+[[files]]
+file = "global_packs/required_data/sixseventh/data/sixseven/recipe/platinum_disco.json"
+hash = "23ca3151d59cf4f461d83d1a70e06f9fe8f780df62ce1a1ef3def417f74101b3"
+
+[[files]]
+file = "global_packs/required_data/sixseventh/data/sixseven/recipe/polished_even_more_ame.json"
+hash = "db865cd8f47baf6480b7e5152c5abb6a16738756f4923b7370a897c8fbf20d9c"
+
+[[files]]
+file = "global_packs/required_data/sixseventh/data/sixseven/recipe/space_thingy.json"
+hash = "893c5e929589e519d58833030e361489750f3b42f35218085c8dcf1e1f622ff2"
+
+[[files]]
+file = "global_packs/required_data/sixseventh/pack.mcmeta"
+hash = "a452c001a600334db719b80ecba7cf1da8ac37a6e966ab721924d1449b638906"
+
+[[files]]
 file = "mods/aerowear.pw.toml"
 hash = "a0b366eb0b182b4017ff3f7e99fe23012fad12b48986e79ce7a105275e29593e"
 metafile = true
@@ -288,6 +352,11 @@ metafile = true
 [[files]]
 file = "mods/deployer.pw.toml"
 hash = "34f20675ca26ae05670def8d9d84faf42009fabd1113d1739cea6fd380420aac"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "760794967eeccb50c7373955cad93a6ad5cac7221b2286c385be868caca3bcf2"
 metafile = true
 
 [[files]]

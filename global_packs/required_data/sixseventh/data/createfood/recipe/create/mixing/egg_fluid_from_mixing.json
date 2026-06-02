@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {	
+        "tag": "sixseven:nothing_shows_up"
+    }
+  ],
+  "results": [
+    {
+      "amount": 250,
+      "id": "minecraft:barrier"
+    },
+    {
+      "item": {
+        "id": "minecraft:barrier"
+      }
+    }
+  ]
+}
