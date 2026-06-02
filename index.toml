@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-crafts-additions-and-aeronautics-compat.pw.toml"
-hash = "a61af43db4bdd4f0d3567f50e33203abbf1d9e1f3c8c90b5c42dcd8b0686ca94"
+hash = "6d755d77df375d5893897d3b4a053bf919930bbdac32abc3e264b3df7634ea31"
 metafile = true
 
 [[files]]
