@@ -881,6 +881,11 @@ hash = "055283aa7790b335df36917fd72eb9f35f4d5cbe3a1e66d53efba4fe79ec1266"
 metafile = true
 
 [[files]]
+file = "mods/too-fast.pw.toml"
+hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
+metafile = true
+
+[[files]]
 file = "mods/tuttas-doors.pw.toml"
 hash = "e7a3b93aa1ea3effa5bc20fb04807b393ce5750bc4456d6152d0042c64ca3787"
 metafile = true
