@@ -831,6 +831,11 @@ hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
 metafile = true
 
 [[files]]
+file = "mods/rrls.pw.toml"
+hash = "b78044fd79ce21750d05dc61b6aede33c4b87cdc16a26f5aff472d4f73ab623c"
+metafile = true
+
+[[files]]
 file = "mods/rsinfinitybooster.pw.toml"
 hash = "235ff3215c33cedf10466ed239f584ff2684fd1a835baeb80ae27f9f214a7f22"
 metafile = true
@@ -853,6 +858,11 @@ metafile = true
 [[files]]
 file = "mods/simrubies.pw.toml"
 hash = "04893007b97610cde2d77b264d6aad03c457a0fa7108032b74599e0fd5675e34"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot.pw.toml"
+hash = "792770e773b1c15870ac7b80b42d3c8f4483d70f0e5594c9af35977a0b1f01c6"
 metafile = true
 
 [[files]]
