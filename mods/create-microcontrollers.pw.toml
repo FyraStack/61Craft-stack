@@ -1,0 +1,13 @@
+name = "Create Microcontrollers"
+filename = "create-microconctrollers-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vXn0BYey/versions/gmwflehc/create-microconctrollers-1.0.0.jar"
+hash-format = "sha512"
+hash = "0f4f3f5041e6496388164a1add465d3625a88d0f3e6cf35185c428282083cbefd61721f4b6640e56ec4be94d59cd3d3a97c56d617a1d7c2d6b92e6013a2d7c7b"
+
+[update]
+[update.modrinth]
+mod-id = "vXn0BYey"
+version = "gmwflehc"

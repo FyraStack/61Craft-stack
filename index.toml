@@ -171,6 +171,11 @@ hash = "392901b7f79963442553456af846d06f48b4057a054a928adb8a76eea13c6383"
 metafile = true
 
 [[files]]
+file = "mods/barehanded.pw.toml"
+hash = "1b88aad2d989eea8d3fcb54f309a4c8f4e95270a8505bf6767dddd21272749ac"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
 metafile = true
@@ -193,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/chestmonster.pw.toml"
 hash = "46dd6ce74daf58741c9e20051b3f914c0a4fe2455fd84cde6248e334208ae334"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
@@ -247,7 +257,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
+hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
+metafile = true
+
+[[files]]
+file = "mods/create-alerted.pw.toml"
+hash = "e675780c9bda71ea063affe6f3739c0b3f65ce93e18b922809e3f75f2c5954e7"
 metafile = true
 
 [[files]]
@@ -263,6 +278,16 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "a76b3b07c25a8ea8c2797328d0d531f64dfbce5a662f343f833bd9857285286f"
+metafile = true
+
+[[files]]
+file = "mods/create-big-mail.pw.toml"
+hash = "f86732388069201bd94f7d50355746c933ed8dfdb9b8d0876ba738ce829c4681"
+metafile = true
+
+[[files]]
+file = "mods/create-bits-n-bobs.pw.toml"
+hash = "0f67083a39e4b9aa80b1830257086f16734091f9ecb24e64dd208c19be2c4923"
 metafile = true
 
 [[files]]
@@ -316,6 +341,11 @@ hash = "fc49d6cf786feaabbb26ae0109498f5dab7c20fc939bdd650a38d46a31803e7c"
 metafile = true
 
 [[files]]
+file = "mods/create-lift-n-load.pw.toml"
+hash = "c400a47623955915cbada02a952824365d5b57b43ccfc696740f83f4ee34c93d"
+metafile = true
+
+[[files]]
 file = "mods/create-mechanical-extruder.pw.toml"
 hash = "d9225b81ab77d2d312cbce47d220fc342179d9081a6a4cf831f36184f6a62258"
 metafile = true
@@ -323,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/create-metallurgy.pw.toml"
 hash = "12a90beeb5a46b46dfdc7ba2a5510107fbc60915e6cf1af129d365e20b99ce2d"
+metafile = true
+
+[[files]]
+file = "mods/create-microcontrollers.pw.toml"
+hash = "beb29f1c039c8862125a539a1b978b4b6bcb34f72f35c8c015e3a00037c5851b"
 metafile = true
 
 [[files]]
@@ -388,6 +423,11 @@ metafile = true
 [[files]]
 file = "mods/create-rail-grinding.pw.toml"
 hash = "510e9c3cddc2ff8d5406dd27019705d7e5f03b65d3a8de4c0c98815fda0856dc"
+metafile = true
+
+[[files]]
+file = "mods/create-sable-pallets.pw.toml"
+hash = "456af640c5551f9f4e77ca8b15acb6f66620e9a83a014dddc555464c63a7cfa6"
 metafile = true
 
 [[files]]
@@ -897,7 +937,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
+hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
 metafile = true
 
 [[files]]
@@ -922,7 +962,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+hash = "25324a8a9cdc663d3d1952191e873f87531011715de49673cbf7c1b0da0504d6"
 metafile = true
 
 [[files]]
