@@ -1,0 +1,13 @@
+name = "Glowcase"
+filename = "glowcase-2.2.0+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HPdKhYvx/versions/Az6jLcfB/glowcase-2.2.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "963ab92dd66c9aac31c992f3b3fe03d004717409943a14ffba1f24763e8782a6b335c9d15a7c2519fd18cab59e2af8af0bd2edd1a7e4084288e810d7c96de722"
+
+[update]
+[update.modrinth]
+mod-id = "HPdKhYvx"
+version = "Az6jLcfB"

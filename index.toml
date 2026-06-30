@@ -676,6 +676,11 @@ hash = "a7f2ae8ea415e95ce1a3518b66edcaf124d8903ff9101d07331f7fec92b3400f"
 metafile = true
 
 [[files]]
+file = "mods/glowcase.pw.toml"
+hash = "3cef73a9a50f8a0c660bcab1d3bed17e6ea97b7d461974f3c74ef07932e8f98e"
+metafile = true
+
+[[files]]
 file = "mods/gputape.pw.toml"
 hash = "c23254e855e6e646ad1f774f0d2871b3bebab2a1fe847385d586089baef49347"
 metafile = true
