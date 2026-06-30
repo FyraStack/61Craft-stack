@@ -176,11 +176,6 @@ hash = "76122ac2bb341daceebb19cd69e1f3bf19efea88fa59010865c1b8f02ea1d759"
 metafile = true
 
 [[files]]
-file = "mods/barehanded.pw.toml"
-hash = "1b88aad2d989eea8d3fcb54f309a4c8f4e95270a8505bf6767dddd21272749ac"
-metafile = true
-
-[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
 metafile = true
@@ -1061,6 +1056,11 @@ hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
 metafile = true
 
 [[files]]
+file = "mods/tpatools.pw.toml"
+hash = "631a07fcfcc8a2c2e2bc33475841d7cc9399c8fa2a962e5cca70069cee278a56"
+metafile = true
+
+[[files]]
 file = "mods/trading-post.pw.toml"
 hash = "72c0db4d726a16d80c2337cc9dc4d220ba8298deb5db5d9d58082d15a245ea3f"
 metafile = true
@@ -1106,6 +1106,11 @@ hash = "7389025d1fa215f56e9ecabf6f84e4092271322de1ec28f3a835b9e7b13238bb"
 metafile = true
 
 [[files]]
+file = "mods/vanishmod.pw.toml"
+hash = "110f42204112708bff686d3a8b796e967e6f2f54fcfe6db78fa32d43b72d060a"
+metafile = true
+
+[[files]]
 file = "mods/vs-hose-connectors.pw.toml"
 hash = "c3c017673463b8f0826966d657956821df911dd46964bd2ad062e00fad6e5028"
 metafile = true
@@ -1118,6 +1123,16 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "6469e09b6d02aa3f1aeb653c9e33ec948e2bd9d09cabc60a834552783120c018"
+metafile = true
+
+[[files]]
+file = "mods/worldedit-items.pw.toml"
+hash = "bc9efcf0652a77b5a1b997d7d3b297098065bddb88348d114c3733edbfde6f04"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "08d4775f8546564ad812b09062633ffc48f44b76328efe3832c021651af86b14"
 metafile = true
 
 [[files]]

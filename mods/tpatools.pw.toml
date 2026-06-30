@@ -1,0 +1,13 @@
+name = "TPATools"
+filename = "tpatools-1.1.2-1.21.1-5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/cof1gxfq/versions/rl91UMtH/tpatools-1.1.2-1.21.1-5.jar"
+hash-format = "sha512"
+hash = "fb9523c6c366fceda936856bb8f5690d6b470a971fcb2517c6e31db8982eada74cb52c762b1e8804406a14cc48e1b55a3503aff0c8bf1e63f1885efc287f2a62"
+
+[update]
+[update.modrinth]
+mod-id = "cof1gxfq"
+version = "rl91UMtH"
