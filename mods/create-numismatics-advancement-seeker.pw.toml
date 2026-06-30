@@ -1,6 +1,6 @@
 name = "Create: Numismatics Advancement Seeker"
 filename = "numismatics_advancement_seeker-0.5.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/95xY0Tz3/versions/3BMteM6l/numismatics_advancement_seeker-0.5.0.jar"
