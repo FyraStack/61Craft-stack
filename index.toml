@@ -591,6 +591,11 @@ hash = "4fbe037c1ec3570be84f68e075c3e8293b15f64dda22bca4735924705fb38236"
 metafile = true
 
 [[files]]
+file = "mods/entombed.pw.toml"
+hash = "8f2e0ecc59ffe739bda763b362fd5d6371249a8e76d4b3016064a042a4c9e6a7"
+metafile = true
+
+[[files]]
 file = "mods/etched.pw.toml"
 hash = "e542594c75eddafc1b72baebc82aa65ce2d8d791bc0ace17c731760bf30360b4"
 metafile = true
