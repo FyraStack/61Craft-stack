@@ -226,11 +226,6 @@ hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
 metafile = true
 
 [[files]]
-file = "mods/connector.pw.toml"
-hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
@@ -373,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/create-lift-n-load.pw.toml"
 hash = "c400a47623955915cbada02a952824365d5b57b43ccfc696740f83f4ee34c93d"
+metafile = true
+
+[[files]]
+file = "mods/create-marketplace.pw.toml"
+hash = "3a8108d4e379936fbf612f47add1d230449dadac854d8aa6a725e51788276dfc"
 metafile = true
 
 [[files]]
@@ -683,11 +683,6 @@ metafile = true
 [[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "a7f2ae8ea415e95ce1a3518b66edcaf124d8903ff9101d07331f7fec92b3400f"
-metafile = true
-
-[[files]]
-file = "mods/glowcase.pw.toml"
-hash = "3cef73a9a50f8a0c660bcab1d3bed17e6ea97b7d461974f3c74ef07932e8f98e"
 metafile = true
 
 [[files]]
@@ -1088,6 +1083,11 @@ metafile = true
 [[files]]
 file = "mods/too-fast.pw.toml"
 hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
+metafile = true
+
+[[files]]
+file = "mods/tradeworks.pw.toml"
+hash = "be1ac9fe5e8e36cf4f51f859fb31eb6c017d8031d09f5b15e922c8ee6691febd"
 metafile = true
 
 [[files]]
