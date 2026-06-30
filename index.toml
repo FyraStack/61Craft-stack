@@ -236,6 +236,11 @@ hash = "18e37e8299dbb7257b428130b8c55c1baab72b89fd21e88bd1388ef5b20d6a76"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "31411fced67d5b743f6cd1ce2be55e4bce428de8df2fe38c6a39097099da5e4f"
+metafile = true
+
+[[files]]
 file = "mods/crawl.pw.toml"
 hash = "349b56aa9ea8284fb89e880941d319ce52e50e51d63084472ea93493cff105b7"
 metafile = true
@@ -431,6 +436,11 @@ hash = "456af640c5551f9f4e77ca8b15acb6f66620e9a83a014dddc555464c63a7cfa6"
 metafile = true
 
 [[files]]
+file = "mods/create-smart-bounds.pw.toml"
+hash = "7e6cdbf3b08697812e6954426b5e1aa8f3159d48e5b63913d2814a54f62d52dc"
+metafile = true
+
+[[files]]
 file = "mods/create-sophisticated-backpacks-compat.pw.toml"
 hash = "79d7cf09cdc88b8e64cb684be60efe938193ee13d8a64fc31e3ad1ae622bf4af"
 metafile = true
@@ -581,6 +591,11 @@ hash = "14294d70698ca8153d87de2f8ec2bb46675ebdf6c576d6745470900e35d08de4"
 metafile = true
 
 [[files]]
+file = "mods/extra-gauges.pw.toml"
+hash = "635b8380894bc7c050deeb426f3e5947b27bda821a616b0ef6a757ae729e96b8"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
 metafile = true
@@ -608,11 +623,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
-metafile = true
-
-[[files]]
-file = "mods/freecam.pw.toml"
-hash = "184c6768f11e0c33c22c104397ad559c5b9337c709d1d05c8e9c93891dcddaee"
 metafile = true
 
 [[files]]
@@ -948,6 +958,11 @@ metafile = true
 [[files]]
 file = "mods/schematicians-goggles.pw.toml"
 hash = "5d3a736cd45068f9c36a943fab127dd708bf5fe511f35bd9bfde9eb9309533f8"
+metafile = true
+
+[[files]]
+file = "mods/sdlink.pw.toml"
+hash = "efef2efb5db1489e2d95e85f0c33c391393ed7fbd48a7b9681d2817b446f0e29"
 metafile = true
 
 [[files]]
