@@ -161,6 +161,11 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/armor-statues.pw.toml"
+hash = "d6c17b9756d8b9491b1813a3a999f78918e268809f904e4739719a7eed82719b"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "cdd14e71c41b125f57f01bfdccc750e9397cfd8b4a032f549e6607c29ce94e72"
 metafile = true
