@@ -256,6 +256,11 @@ hash = "349b56aa9ea8284fb89e880941d319ce52e50e51d63084472ea93493cff105b7"
 metafile = true
 
 [[files]]
+file = "mods/create-access-denied.pw.toml"
+hash = "681f6ca6f8189dfc2d802c1852d8b0d5fef63f9f314f299da96be2887301ec91"
+metafile = true
+
+[[files]]
 file = "mods/create-additional-logistics.pw.toml"
 hash = "ba904d5c6a361b648fa7df9ecb8133ef6d1cdc596edb0be128b5562ebbdc14ae"
 metafile = true
@@ -288,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/create-ballast.pw.toml"
 hash = "fcabd265b7d88372614d74bae22c7a1ea90c830ff4e8aa13d8354bece9690555"
+metafile = true
+
+[[files]]
+file = "mods/create-better-stock-ticker.pw.toml"
+hash = "7c25efd3d89a82e8f7c66e488263b5029d9cf2e472d21a13c8d738a1f46ddae1"
 metafile = true
 
 [[files]]
@@ -411,6 +421,16 @@ hash = "8205f415e163e4e5f70a997d17e68bc8d71758e081307a78837b9d41010846ab"
 metafile = true
 
 [[files]]
+file = "mods/create-numismatics-advancement-seeker.pw.toml"
+hash = "ebaa65a3795513dee2ed09c14dce1c33230e9ad86368c5c922be9beb659fb92d"
+metafile = true
+
+[[files]]
+file = "mods/create-numismatics-utils.pw.toml"
+hash = "074ca95e8d18a331b47f2363b254392a3bb84adbedee69c53d7f103a7dd3f9e6"
+metafile = true
+
+[[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "10d3389f72e8e8f78518f5b6786ccec4e62dbad117491d2970e8e1f75e390251"
 metafile = true
@@ -478,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/create-steam-powered.pw.toml"
 hash = "9a399bb05a12c74edd0014d09178b71bc0ffdb5152f3b457a0f294bf21751745"
+metafile = true
+
+[[files]]
+file = "mods/create-stock-market.pw.toml"
+hash = "3fbe8f34b2dee44337c7916b7a5d2e40ccf76b2d69767d84e639fd23421866d4"
 metafile = true
 
 [[files]]
@@ -1058,6 +1083,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "d2102e2791e5dec11e8a7145a712c2e32bc1799308763de2f81caa4a532941af"
+metafile = true
+
+[[files]]
+file = "mods/technophobias-create-numismatified-waystones-compat.pw.toml"
+hash = "96eeb71c1e342e3badc49577a9f72cc686e99da5b8142f2fabd7dba36edc7e3c"
 metafile = true
 
 [[files]]
