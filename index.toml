@@ -1076,11 +1076,6 @@ hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
 metafile = true
 
 [[files]]
-file = "mods/tpatools.pw.toml"
-hash = "631a07fcfcc8a2c2e2bc33475841d7cc9399c8fa2a962e5cca70069cee278a56"
-metafile = true
-
-[[files]]
 file = "mods/trading-post.pw.toml"
 hash = "72c0db4d726a16d80c2337cc9dc4d220ba8298deb5db5d9d58082d15a245ea3f"
 metafile = true
@@ -1133,6 +1128,11 @@ metafile = true
 [[files]]
 file = "mods/vs-hose-connectors.pw.toml"
 hash = "c3c017673463b8f0826966d657956821df911dd46964bd2ad062e00fad6e5028"
+metafile = true
+
+[[files]]
+file = "mods/warputils.pw.toml"
+hash = "ebe5dc0e23af7bc0eb783c7a8bb979796e54bf49d0879971ac653c817cba0c0d"
 metafile = true
 
 [[files]]
