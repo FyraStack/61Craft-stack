@@ -721,11 +721,6 @@ hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
 
 [[files]]
-file = "mods/luckperms.pw.toml"
-hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
-metafile = true
-
-[[files]]
 file = "mods/massweightcompat.pw.toml"
 hash = "85b5050c10b750f76e40a68c2df557f1e389df95ab70a5e103f49747b1fed02a"
 metafile = true
