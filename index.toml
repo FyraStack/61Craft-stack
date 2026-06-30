@@ -186,6 +186,11 @@ hash = "cc2e6dda94a7a6f5487843cafe569d8044bf9482cbf03f062cf4595f1fb05281"
 metafile = true
 
 [[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "37784a1f9ab276e618f3d29bf0ea641811f7f6d3a740179e0332e7794b91679e"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
 metafile = true
@@ -1138,6 +1143,11 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "08d4775f8546564ad812b09062633ffc48f44b76328efe3832c021651af86b14"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-forge.pw.toml"
+hash = "26da583167cf97e2dd89bdf738dd2ad1358237c2b87ce3b593f47f6df1269df5"
 metafile = true
 
 [[files]]
