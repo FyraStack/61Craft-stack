@@ -381,11 +381,6 @@ hash = "c400a47623955915cbada02a952824365d5b57b43ccfc696740f83f4ee34c93d"
 metafile = true
 
 [[files]]
-file = "mods/create-marketplace.pw.toml"
-hash = "3a8108d4e379936fbf612f47add1d230449dadac854d8aa6a725e51788276dfc"
-metafile = true
-
-[[files]]
 file = "mods/create-mechanical-extruder.pw.toml"
 hash = "508cd020c76668e543438d9f897122c54d702e0aa7787473b6ad0062b98ff475"
 metafile = true
