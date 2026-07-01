@@ -365,6 +365,11 @@ hash = "ff6a3d4bed914978aada4a059a16100cd2fd69a3cf19987c0d80160a7125e78b"
 metafile = true
 
 [[files]]
+file = "mods/create-factory-controller.pw.toml"
+hash = "8d50ce92f71dfbf80ff79b68f9a1a651500b5d76af173515d69e15dd5acc26bc"
+metafile = true
+
+[[files]]
 file = "mods/create-factory.pw.toml"
 hash = "e0477c7fcb9ea370df1e278357722ac5ee8a1c89e6b4c8b84c41f3724426b7bf"
 metafile = true

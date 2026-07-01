@@ -1,0 +1,13 @@
+name = "Create: Factory Controller"
+filename = "createfactorycontroller-0.2.1-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VR3MrvE2/versions/4FIlusov/createfactorycontroller-0.2.1-beta.jar"
+hash-format = "sha512"
+hash = "5776dbb3bd6fdc973ee6a0fccbbb0935447a13d14a12113b5aba2dfaadd436eeb7d0ff012432de910a48c497af650b439c80dea2c2c3f685f0f268167e9f8208"
+
+[update]
+[update.modrinth]
+mod-id = "VR3MrvE2"
+version = "4FIlusov"
