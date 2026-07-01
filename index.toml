@@ -7,7 +7,6 @@ hash = "7c058e9f4b7054548c3050ba0bc8a1dfa070fa97be5e479d16f122a5bf66d57d"
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "4e9099bd75a65cc2651973283ab7db7565ea827e9cb6803129577435b48bd890"
-preserve = true
 
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"
