@@ -846,6 +846,11 @@ hash = "bbaa5acb4a63efb00b03a674e3c4490a67da1c24ca9b8d6c43f74a1dee905049"
 metafile = true
 
 [[files]]
+file = "mods/noreteams.pw.toml"
+hash = "212945dde7f7e800c4454efc9c3bc00482dde208640863846fea5eb7525028b6"
+metafile = true
+
+[[files]]
 file = "mods/northstar-redux.pw.toml"
 hash = "4d7e9989b35a90db762ee26254bd0b52bb28f0d959bd557ae4dc7a4dc1caa362"
 metafile = true
