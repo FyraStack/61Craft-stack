@@ -1,34 +1,34 @@
 {
-    "Features": {
-        "highlight_foused_items": {
-            "value": false
-        },
-        "enable_profiles": {
-            "value": false
-        }
+  "Features": {
+    "highlight_foused_items": {
+      "value": false
     },
-    "ModSettings": {
-        "enable_updates_check": false,
-        "for_modpack_devs": false,
-        "first_run": false,
-        "enable_profiles": {
-            "value": false
-        },
-        "highlight_foused_items": {
-            "value": false
-        }
-    },
-    "AutoRefillSettings": {
-        "auto_refill_enable_indicator_icons": {
-            "value": false
-        },
-        "auto_refill_enable_horbar_indicator_icons": {
-            "value": false
-        }
-    },
-    "EditProfiles": {
-        "enable_profiles": {
-            "value": false
-        }
+    "enable_profiles": {
+      "value": false
     }
+  },
+  "ModSettings": {
+    "enable_updates_check": false,
+    "for_modpack_devs": false,
+    "first_run": false,
+    "enable_profiles": {
+      "value": false
+    },
+    "highlight_foused_items": {
+      "value": false
+    }
+  },
+  "AutoRefillSettings": {
+    "auto_refill_enable_indicator_icons": {
+      "value": false
+    },
+    "auto_refill_enable_horbar_indicator_icons": {
+      "value": false
+    }
+  },
+  "EditProfiles": {
+    "enable_profiles": {
+      "value": false
+    }
+  }
 }
