@@ -5,6 +5,11 @@ file = "config/customtimecycle.json"
 hash = "7c058e9f4b7054548c3050ba0bc8a1dfa070fa97be5e479d16f122a5bf66d57d"
 
 [[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "4311939dea887687ee9442a76e9bcf4f383fb03cb64ebdf027c0e2db70096870"
+preserve = true
+
+[[files]]
 file = "config/sophisticatedbackpacks-server.toml"
 hash = "3ee8e1d84ae88d3426db37882c69a1c47c4b8a9679b5525667f9eb7e5fd67be4"
 
