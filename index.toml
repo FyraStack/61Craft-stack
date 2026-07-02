@@ -245,11 +245,6 @@ hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
 
 [[files]]
-file = "mods/coreprotectneo.pw.toml"
-hash = "18e37e8299dbb7257b428130b8c55c1baab72b89fd21e88bd1388ef5b20d6a76"
-metafile = true
-
-[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "31411fced67d5b743f6cd1ce2be55e4bce428de8df2fe38c6a39097099da5e4f"
 metafile = true
@@ -720,6 +715,11 @@ hash = "c23254e855e6e646ad1f774f0d2871b3bebab2a1fe847385d586089baef49347"
 metafile = true
 
 [[files]]
+file = "mods/grieflogger.pw.toml"
+hash = "e4d63300d9fdf653fe7eb135a52755680d00566ef5b4628c3c03db949fdb7fcb"
+metafile = true
+
+[[files]]
 file = "mods/hots-aerostuff.pw.toml"
 hash = "e10bec77c4660bf629b9e61e1384c18884395f7a8bc1a7d3f0720358f1a75f64"
 metafile = true
@@ -1102,6 +1102,11 @@ metafile = true
 [[files]]
 file = "mods/stone-zone.pw.toml"
 hash = "896b8502bc5b521223d4935c364ee65b5023ac18e2041c0c93b26428c4d87499"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
 metafile = true
 
 [[files]]
