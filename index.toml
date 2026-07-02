@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/customtimecycle.json"
-hash = "7c058e9f4b7054548c3050ba0bc8a1dfa070fa97be5e479d16f122a5bf66d57d"
+hash = "634ab9488b29e879df25a744d0ec3ec569e025846582410580911f2fde78ea65"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
