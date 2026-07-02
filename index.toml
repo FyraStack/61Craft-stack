@@ -945,8 +945,13 @@ hash = "650330109d21831664d2ff597c7a90200eda69a1efaca4e9b0b6b6297ac3c364"
 metafile = true
 
 [[files]]
-file = "mods/polymorph.pw.toml"
-hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+file = "mods/polymorph_plus.pw.toml"
+hash = "24918b2a823972a24c1ac763680cf4e40299e4af5712d29b617d39980fa5e04b"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-refined-storage.pw.toml"
+hash = "00f6f19038a3a5f234598da8b911502a03a01c3570c3cebd6132cd4309f81ac7"
 metafile = true
 
 [[files]]
