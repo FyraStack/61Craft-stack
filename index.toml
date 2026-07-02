@@ -6,7 +6,7 @@ hash = "634ab9488b29e879df25a744d0ec3ec569e025846582410580911f2fde78ea65"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "4e9099bd75a65cc2651973283ab7db7565ea827e9cb6803129577435b48bd890"
+hash = "df0a1f423c63bcd39229e4569a5ba86eb0141e48d219fd862a60c10f0f19acd0"
 
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"
