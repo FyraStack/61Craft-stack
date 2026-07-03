@@ -1,13 +1,13 @@
 name = "Create Microcontrollers"
-filename = "create-microconctrollers-1.0.0.jar"
+filename = "computermod-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vXn0BYey/versions/gmwflehc/create-microconctrollers-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/vXn0BYey/versions/Kgia94JG/computermod-1.0.1.jar"
 hash-format = "sha512"
-hash = "0f4f3f5041e6496388164a1add465d3625a88d0f3e6cf35185c428282083cbefd61721f4b6640e56ec4be94d59cd3d3a97c56d617a1d7c2d6b92e6013a2d7c7b"
+hash = "b2a218a8430ad783cf75de5fc2457410bed48c195add27419f7c09a4ee8d3c863b5aa2857c3cb74329887640a85cb036233334ca9eeff6d891f3322c28f31388"
 
 [update]
 [update.modrinth]
 mod-id = "vXn0BYey"
-version = "gmwflehc"
+version = "Kgia94JG"

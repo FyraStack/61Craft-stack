@@ -335,6 +335,11 @@ hash = "4e4013a4fce63ec23e3936002ae115ef3e5be24d3173697aaa73c4b4578a4144"
 metafile = true
 
 [[files]]
+file = "mods/create-contraption-terminals.pw.toml"
+hash = "5178c05f0788498cb6db144a990732d45f781194830b3f99ea73b890707f892b"
+metafile = true
+
+[[files]]
 file = "mods/create-crafts-additions-and-aeronautics-compat.pw.toml"
 hash = "6d755d77df375d5893897d3b4a053bf919930bbdac32abc3e264b3df7634ea31"
 metafile = true
@@ -391,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-microcontrollers.pw.toml"
-hash = "beb29f1c039c8862125a539a1b978b4b6bcb34f72f35c8c015e3a00037c5851b"
+hash = "401d58202d71e1c2b37ebe9a27aaf051b051f4c86fbdfc6976408288d479d88e"
 metafile = true
 
 [[files]]
