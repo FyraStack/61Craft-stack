@@ -1,0 +1,15 @@
+name = "create-stockmarket"
+filename = "create-stockmarket-1.1.0+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/korewaChino/create-stockmarket/releases/download/v1.1.0-pricefix/create-stockmarket-1.1.0%2Bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "464fcf130ae2ad5525cd9706f3c951bd870036603f062bb8039d39116a9040ce"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "korewaChino/create-stockmarket"
+tag = "v1.1.0-pricefix"

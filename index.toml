@@ -500,8 +500,8 @@ hash = "9a399bb05a12c74edd0014d09178b71bc0ffdb5152f3b457a0f294bf21751745"
 metafile = true
 
 [[files]]
-file = "mods/create-stock-market.pw.toml"
-hash = "3fbe8f34b2dee44337c7916b7a5d2e40ccf76b2d69767d84e639fd23421866d4"
+file = "mods/create-stockmarket.pw.toml"
+hash = "822906308757f9d4bf8d274564ef07334739affca519b2bbfe0a810f37dfa35c"
 metafile = true
 
 [[files]]
