@@ -1185,11 +1185,6 @@ hash = "1d5fcdacb9a64b8331dd6cf084e67ded94664ecc3fa8a57a4dfc84decbae6a5e"
 metafile = true
 
 [[files]]
-file = "mods/unlimited-trading.pw.toml"
-hash = "327c8c4c8952ab10683caa8f7ed656b2abd03b45f0122334167c90aaa231a2ac"
-metafile = true
-
-[[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "f05197caaa06d6cf3807ae2d81928c4f5eff1336597b863207c6320ab7f2e4b0"
 metafile = true
