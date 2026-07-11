@@ -975,6 +975,11 @@ hash = "24918b2a823972a24c1ac763680cf4e40299e4af5712d29b617d39980fa5e04b"
 metafile = true
 
 [[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "f80d4b726ade888e68b0b925fcbbcdc8b2878f5bb4a24e8703ef331b0a729c12"
+metafile = true
+
+[[files]]
 file = "mods/polymorphic-refined-storage.pw.toml"
 hash = "00f6f19038a3a5f234598da8b911502a03a01c3570c3cebd6132cd4309f81ac7"
 metafile = true
